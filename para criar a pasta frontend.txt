@@ -8,7 +8,8 @@ yarn create vite frontend --template react-ts
 entrar na pasta frontend
 abrir gitbash
 escrever no console:
-yarn
+yarn	//para instalar as dependências do json package
 
 em seguida escrever no mesmo console:
-yarn dev	//para instalar as dependências do json package
+yarn dev	//para todar a aplicação
+		//depois só entrar no endereço mostrado
