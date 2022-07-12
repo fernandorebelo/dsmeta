@@ -1,0 +1,18 @@
+//para criar o backend
+//projeto Spring Boot
+Criar projeto Spring Boot no Spring Initializr com as seguintes dependências:
+
+    Web
+    JPA
+    H2
+    Security
+
+acessar site: https://start.spring.io/
+Project: Maven Project
+Language: Java
+Spring Boot: 2.7.1 (ou outro)
+//nomear o Project Metadata
+//adicionar dependências
+Clicar em generate
+Fazer download
+Extrair a pasta aqui e renomear a pasta para backend
