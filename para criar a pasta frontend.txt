@@ -11,5 +11,5 @@ escrever no console:
 yarn	//para instalar as dependências do json package
 
 em seguida escrever no mesmo console:
-yarn dev	//para todar a aplicação
+yarn dev	//para rodar a aplicação
 		//depois só entrar no endereço mostrado
