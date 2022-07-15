@@ -5,4 +5,4 @@ A aplicação desenvolvida é um sistema web de notificações via SMS.
 - Banco de dados com ORM
 - Frontend com ReactJS, HTML e CSS
 - Implantação na nuvem com CI/CD
-- Postman, Heroku
+- Postman, Heroku, Twillo
